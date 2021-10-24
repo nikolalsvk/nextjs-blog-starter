@@ -87,7 +87,7 @@
   border: 1px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  width: 45%;
+  width: 400px;
 }
 
 .card:hover,
@@ -106,6 +106,10 @@
   margin: 0;
   font-size: 1.25rem;
   line-height: 1.5;
+}
+
+.card span {
+  font-size: 0.875rem;
 }
 
 .logo {
