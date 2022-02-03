@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+The repo is used for a blog post on the Pragmatic Pineapple blog post named [How to Migrate Your Blog from Gatsby to Next.js](https://pragmaticpineapple.com/how-to-migrate-your-blog-from-gatsby-to-nextjs/)
+
 ## Getting Started
 
 First, run the development server:
